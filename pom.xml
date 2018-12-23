@@ -73,7 +73,7 @@
     </dependencies>
 
     <build>
-        <finalName>JenkinsTest</finalName>
+        <finalName>jenkinsTest</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
